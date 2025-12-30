@@ -15,25 +15,6 @@ To evaluate revenue contribution by branches and payment modes
 To create an interactive Power BI dashboard
 
 
-Dataset Description :
-
-The dataset contains transactional data from a supermarket, including:
-
-Invoice ID
-Branch
-City
-Customer Type
-Gender
-Product Line
-Unit Price
-Quantity
-Tax
-Total Sales
-Date & Time
-Payment Method
-Gross Income
-
-
 Data Preparation : 
 
 The following steps were performed in Power BI (Power Query Editor):
@@ -87,3 +68,7 @@ Seasonal trends affect sales volume
 8. Conclusion
 
 This Power BI project successfully transforms raw supermarket data into meaningful insights. The dashboard enables stakeholders to monitor sales performance, understand customer behavior, and identify profitable products.
+
+
+![Power BI](https://github.com/user-attachments/assets/25f8f94b-b153-4686-af9d-f3c10255c539)
+
